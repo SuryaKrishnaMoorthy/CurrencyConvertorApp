@@ -6,7 +6,7 @@ different countries. It is a type of calculator that converts the value of one o
 currency into another currency. If you are visiting another country with USD, you
 need to know the currency value of USD in that country.
 
-<video src="./currencyConverterDemo.mov" width="320" height="200" controls preload></video>
+<img src="Currency_Converter_Demo.gif">
 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
