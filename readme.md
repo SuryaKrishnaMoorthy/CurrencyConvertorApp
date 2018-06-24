@@ -1,7 +1,7 @@
 
 ## Currency Convertor App
   
-###About  
+### About  
 
 This convertor is an application to check the currency rates for different 
 countries and is useful while visiting other countries. It is a type of 
