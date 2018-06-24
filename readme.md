@@ -1,61 +1,27 @@
 
 ## Currency Convertor App
-    
-    This converter is useful to check the currency rates for different countries. It is a type of calculator that converts the value of one of the
-currency into another currency. If you are visiting another country with USD, you need to know the currency value of USD in that country.
+  
+###About  
+This converter is an example app to check the currency rates for different 
+countries and is useful while visiting other countries.It is a type of 
+calculator that converts the value of one of the currency into another
+currency.
+
+###Demo
 
 ![demo](./Currency_Convertor_Demo.gif)
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+###Getting Started
 
-Prerequisites
-What things you need to install the software and how to install them
+1. Fork and clone the repository.
+2. Import the project in NetBeans/IDE.
+3. Run the project in NetBeans/IDE
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+###Prerequisites
 
-Say what the step will be
+1. JDK 7 or above
+2. git
 
-Give the example
-And repeat
+###Built With
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
-
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-
-Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+1. NetBeans
